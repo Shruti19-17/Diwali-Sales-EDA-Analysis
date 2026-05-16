@@ -23,8 +23,17 @@ The goal is to generate actionable insights that can help businesses improve **t
 
 ---
 
-## 📂 Project Structure
-# Diwali-Sales-EDA-Analysis
-Exploratory Data Analysis on Diwali sales dataset to uncover customer demographics, purchasing behavior, and product preferences. Key insights include top‑selling categories, regional sales trends, and customer segments that drive revenue — supporting data‑driven marketing and business decisions.
 
-## Here Dataset 
+
+## Here Dataset (https://github.com/Shruti19-17/Diwali-Sales-EDA-Analysis/blob/main/Diwali%20Sales%20Data.csv)
+
+## 📈 Sample Visualizations
+Customer demographics distribution
+
+Sales by product category
+
+Regional revenue comparison
+
+Occupation-wise spending patterns
+
+## how to run the EDA ()
