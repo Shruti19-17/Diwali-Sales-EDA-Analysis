@@ -36,4 +36,7 @@ Regional revenue comparison
 
 Occupation-wise spending patterns
 
-## how to run the EDA ()
+## how to run the EDA (https://github.com/Shruti19-17/Diwali-Sales-EDA-Analysis/blob/main/Diwali_Sales_Analysis%20(1).ipynb)
+
+## 🎯 Conclusion
+The analysis highlights customer-centric strategies for festive sales, such as focusing on high-demand categories, targeting specific demographics, and leveraging regional preferences to maximize revenue.
